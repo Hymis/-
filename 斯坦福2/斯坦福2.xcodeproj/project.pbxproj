@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					135CEF1B1E8E5A7B007CF72A = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 9VUH9ATKE2;
 						ProvisioningStyle = Automatic;
 					};
 					135CEF2F1E8E5A7B007CF72A = {
@@ -339,6 +340,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9VUH9ATKE2;
 				INFOPLIST_FILE = "斯坦福2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ios.---2";
@@ -351,6 +353,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9VUH9ATKE2;
 				INFOPLIST_FILE = "斯坦福2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ios.---2";
